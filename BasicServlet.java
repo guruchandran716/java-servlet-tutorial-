@@ -1,0 +1,4 @@
+class BasicServlet extends HttpServlet
+{
+
+}
